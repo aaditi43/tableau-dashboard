@@ -52,7 +52,7 @@ This dashboard answers key HR questions like:
 
 ## 📁 Files in This Repo
 
-- `hr_dashboard.twbx` – Main Tableau workbook
+- `dashboard.twbx` – Main Tableau workbook
 - `hrdashboard.png` – Screenshot of the dashboard (preview)
 
 ---
